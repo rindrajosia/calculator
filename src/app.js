@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <div className="alert alert-success">
-    Calculator
+    Calculator.
   </div>
 );
 
